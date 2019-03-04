@@ -30,6 +30,7 @@ With thanks to all the korafola in the world!
 #### Comments and Questions?
 
 Find something wrong? Like what we're doing? Got some news, a link to add, or questions?
+Please get in touch through our contact page!
 
  [1]: {{ site.url }}/design/gallery/
  [2]: {{ site.url }}/design/video/
