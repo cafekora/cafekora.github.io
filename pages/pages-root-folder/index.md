@@ -21,7 +21,7 @@ widget3:
   title: "Download Theme"
   url: 'https://cafekora.github.io/blog'
   image: widget-github-303x182.jpg
-  text: 'This is where stuff about the blog would go</a>.'
+  text: 'This is where stuff about the blog would go.'
 #
 # Use the call for action to show a button on the frontpage
 #
