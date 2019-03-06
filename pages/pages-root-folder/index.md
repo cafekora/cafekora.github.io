@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Kora News"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-3-303x182.jpg
+  image: widget-3-302x182.jpg
   text: 'Read the lastest news on concerts, workshops, festivals and the latest changes to this site'
 #
 # Use the call for action to show a button on the frontpage
