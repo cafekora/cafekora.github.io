@@ -15,9 +15,8 @@ widget1:
 widget2:
   title: "Kora Videos"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: widget-2-302x182.jpg
   text: 'There are lots of kora videos on YouTube. We've curated some of the best for your listening pleasure.'
-#  video: '<a href="#" data-reveal-id="videoModal"><img src="images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="images/widget-2-302x170.jpg" width="302" height="170" alt=""/></a>'
 widget3:
   title: "Kora News"
   url: 'https://github.com/Phlow/feeling-responsive'
