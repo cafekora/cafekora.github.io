@@ -6,7 +6,7 @@ subheadline: "An introduction to the art of the Jali"
 teaser: "Jali are members of a hereditary group of West Africacan oral historians, musicians and singers"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/getting-started/"
+permalink: "/about/jaliya/"
 ---
 
 The origin of the kora is surrounded in legend and folklore; with many different stories about when it first came into 
