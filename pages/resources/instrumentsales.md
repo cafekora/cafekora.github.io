@@ -7,9 +7,7 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/resources/instrumentsales"
 ---
-This page lists primarily those offering kora tuition outside West Africa. 
-
-Teachers and Courses
+This page lists kora makers who sell instruments online.
 
 * **Adaptatrap Koras** (UK)
 Based in Brighton in the UK, their instruments have been used by many professional musicians and are supplied to London University’s School of Oriental and African Studies for their kora courses.
@@ -56,3 +54,5 @@ The brilliant UK-based singer and kora player Sona Jobarteh sells koras construc
 Long established sellers of high quality instruments.
 
 <http://www.thekoraworkshop.co.uk/>
+
+If you would like to suggest additions or corrections to this list, please use the contact us form at the top of the page.
