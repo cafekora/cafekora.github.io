@@ -13,7 +13,7 @@ Teachers and Courses
 * **The Kora Workshop** (UK, France, Senegal)
 Long established sellers of instruments, they run taster sessions and longer worshops to kora players. They also sell audio lessons (on CD) and video lessons. All are highly recommended.
 
-http://www.koraworkshop.co.uk/
+<http://www.koraworkshop.co.uk/>
 
 * **Ame Fall** (California, USA)
 Senegalese kora player, Amadou Fall who has recorded and performed in Africa, Europe and North America offers kora lessons in the US. He also runs a class in Senegal in which participants construct their own kora and learn to play.
