@@ -6,7 +6,7 @@ subheadline: "Introduction to the instrument"
 teaser: "what is a kora?"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/about/introduction"
+permalink: "/about/introduction/"
 ---
 The Kora is a musical instrument, historically associated with the Mande people of West Africa.
 
