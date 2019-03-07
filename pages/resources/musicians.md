@@ -3,7 +3,6 @@ layout: page
 show_meta: false
 title: "Musicians"
 subheadline: "Links to personal pages of kora players"
-teaser: "Kora players are called *korafola*"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/resources/musicians/"
@@ -56,7 +55,7 @@ permalink: "/resources/musicians/"
 
 * **Amadou Fall**
 
-http://www.amekoramusic.com/
+<http://www.amekoramusic.com/>
 
 * **Jacques Burtin**
 
