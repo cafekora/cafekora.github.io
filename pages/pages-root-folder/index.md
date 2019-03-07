@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Learn more about the kora"
+  title: "About the kora"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Read more about what a kora is, where it comes from and how it is made'
+  text: 'Read more about what a kora is, where it comes from and how it is made.'
 widget2:
   title: "Kora Videos"
   url: 'http://phlow.github.io/feeling-responsive/info/'
@@ -21,7 +21,7 @@ widget3:
   title: "Kora News"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-3-302x182.jpg
-  text: 'Read the lastest news on concerts, workshops, festivals and the latest changes to this site'
+  text: 'Read the latest updates on concerts, workshops, festivals and changes to this site.'
 #
 # Use the call for action to show a button on the frontpage
 #
