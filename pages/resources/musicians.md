@@ -50,11 +50,11 @@ permalink: "/resources/musicians/"
 
 <http://www.princediabate.com/>
 
-* **Joe O'Driscoll and Sekou Kouyate*
+* **Joe O'Driscoll and Sekou Kouyate**
 
 <http://www.cumbancha.com/joeandsekou>
 
-* **Amadou Fall*
+* **Amadou Fall**
 
 http://www.amekoramusic.com/
 
