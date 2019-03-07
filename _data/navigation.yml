@@ -1,7 +1,11 @@
 - title: Home
   url: "/"
   side: left
-
+  
+- title: Getting Started
+  url: "/getting-started/"
+  side: left
+  
 - title: About the kora
   url: "/about/"
   side: left
