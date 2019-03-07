@@ -28,8 +28,9 @@ http://www.joonakora.fi/
 * **Josh Doughty** (UK, Switzerland)
 Although primarily a performer, Josh occasionally teaches kora at the City of Basel Music Academy and other venues and is the co-founder (and kora teacher) of Korason workshops.
 
-https://joshdoughty.co.uk/
-https://www.korasonworkshops.co.uk/
+<https://joshdoughty.co.uk/>
+
+<https://www.korasonworkshops.co.uk/>
 
 * **Kane Mathis** (New York, USA)
 Kane is a performer on both Kora and the arabic Oud. He learned kora from a number of Gambian players, including Malamini Jobarteh and Moriba Kouyate.  
