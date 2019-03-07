@@ -5,7 +5,7 @@ title: "Kora Construction"
 subheadline: "How a kora is made"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/about/construction"
+permalink: "/about/construction/"
 ---
 The kora’s body is constructed from a large calabash gourd, cut in half and then covered in animal skin (usually cow skin). 
 This acts as a resonator, to amplify the sound from the strings. Two handles run under the skin, these are usually made from 
