@@ -27,12 +27,12 @@ Note that the numbers shown are simply the number of octaves higher than the low
 
 The F0 note is the first string on the left and is a semitone higher than the lowest (E) note on a guitar.
 
-![Silaba tuning](images/Fsilaba.png "F Silaba tuning")
+![Silaba tuning](Fsilaba.png "F Silaba tuning")
 
 This tuning is known as ‘Silaba'.
 
 Some pieces use a different tuning, often called Sauta, in which the 4th note of the scale is raised by a semi-tone. On an
 instrument tuned to an F scale, this means that the two B-flat strings are tuned to B.
 
-![Sauta tuning](images/Fsauta.png "F Sauta tuning")
+![Sauta tuning](Fsauta.png "F Sauta tuning")
 
