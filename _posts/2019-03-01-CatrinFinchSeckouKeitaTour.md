@@ -3,7 +3,7 @@ layout: page
 title:  "Catrin Finch and Seckou Keita Tour Dates"
 breadcrumb: true
 categories:
-    - design
+    - concerts
 tags:
     - blog
     - content
