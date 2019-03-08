@@ -17,8 +17,8 @@
   url: "/music/"
   side: left
   dropdown:
-  - title: "Musicians"
-    url: "/music/musicians/"
+  - title: "Kora Music"
+    url: "/music/koramusic/"
   - title: "Recordings"
     url: "/music/recordings"
   - title: "Videos"
