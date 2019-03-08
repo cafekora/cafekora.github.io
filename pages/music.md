@@ -8,6 +8,6 @@ permalink: "/music/"
 ---
 This section includes pages on
 
-- **Kora Music** (the music traditionally played on the kora) <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/music/koramusic/">Kora Music ›</a>
+- **Kora Music** (the music traditionally played on the kora) <a href="{{ site.url }}{{ site.baseurl }}/music/koramusic/">Kora Music ›</a>
 - **Recordings** (links to some of the best kora recordings)
 - **Videos** (links to great videos on YouTube and elsewhere)
