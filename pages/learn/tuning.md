@@ -32,7 +32,7 @@ The F0 note is the first string on the left and is a semitone higher than the lo
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}Fsilaba.png" alt="F Silaba Tuning">
         <p> F Silaba Tuning</p>
-    </div>
+    </div></div>
    
 This tuning is known as ‘Silaba'.
 
@@ -43,6 +43,6 @@ instrument tuned to an F scale, this means that the two B-flat strings are tuned
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}Fsauta.png" alt="F Sauta Tuning">
         <p> F Sauta Tuning</p>
-    </div>
+    </div></div>
 
 An electronic tuner - an inexpensive battery-powered device which clips onto a musical instrument can be a useful investment. You can clip it to the hole in the kora gourd. You can quickly check the tuning of your kora by playing each string in turn and looking at the tuner to see whether it is correct or needs to be adjusted upward or downward. Make sure that you buy a chromatic tuner, which has all notes and not just the six strings of a guitar. Of course, this is only a time-saver if you are using standard Western tuning.
