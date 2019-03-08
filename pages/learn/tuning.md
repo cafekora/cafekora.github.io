@@ -5,6 +5,12 @@ title: "Tuning the Kora"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/learn/tuning/"
+image:
+    title: title_image.jpg
+    thumb: thumbnail_image.jpg
+    homepage: header_homepage_13.jpg
+    caption: Image by Phlow
+    caption_url: "http://phlow.de/"
 ---
 Traditionally, the kora was tuned to suit the pitch of a singer's voice, or to accompany a bala (balafon) with fixed tuning. 
 Furthermore, the music of the jalis traditionally used a heptatonic scale, whose notes did not exactly correspond with the equal
