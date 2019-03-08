@@ -27,19 +27,16 @@ The tuning diagram shows the kora bridge from above, so that when the instrument
 Note that the numbers shown are simply the number of octaves higher than the lowest note.
 
 The F0 note is the first string on the left and is a semitone higher than the lowest (E) note on a guitar.
-
 <div class="row t60">
         <img src="{{ site.urlimg }}FSilaba.png" alt="F Silaba Tuning">
         <p> F Silaba Tuning</p>
     </div>
-   
 This tuning is known as ‘Silaba'.
 
 Some pieces use a different tuning, often called Sauta, in which the 4th note of the scale is raised by a semi-tone. On an
 instrument tuned to an F scale, this means that the two B-flat strings are tuned to B.
-
 <div class="row t60">
-    <div class="medium-6 columns b30">
+    <div class="medium-3 columns b30">
         <img src="{{ site.urlimg }}FSauta.png" alt="F Sauta Tuning">
         <p> F Sauta Tuning</p>
     </div></div>
