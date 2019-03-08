@@ -29,10 +29,9 @@ Note that the numbers shown are simply the number of octaves higher than the low
 The F0 note is the first string on the left and is a semitone higher than the lowest (E) note on a guitar.
 
 <div class="row t60">
-    <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}FSilaba.png" alt="F Silaba Tuning">
         <p> F Silaba Tuning</p>
-    </div></div>
+    </div>
    
 This tuning is known as ‘Silaba'.
 
