@@ -30,7 +30,7 @@ The F0 note is the first string on the left and is a semitone higher than the lo
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}Fsilaba.png" alt="F Silaba Tuning">
+        <img src="{{ site.urlimg }}FSilaba.png" alt="F Silaba Tuning">
         <p> F Silaba Tuning</p>
     </div></div>
    
@@ -41,7 +41,7 @@ instrument tuned to an F scale, this means that the two B-flat strings are tuned
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}Fsauta.png" alt="F Sauta Tuning">
+        <img src="{{ site.urlimg }}FSauta.png" alt="F Sauta Tuning">
         <p> F Sauta Tuning</p>
     </div></div>
 
