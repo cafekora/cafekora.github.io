@@ -36,3 +36,4 @@ instrument tuned to an F scale, this means that the two B-flat strings are tuned
 
 ![Sauta tuning]({{ site.url }}{{ site.baseurl }}/images/Fsauta.png "F Sauta tuning")
 
+An electronic tuner - an inexpensive battery-powered device which clips onto a musical instrument can be a useful investment. You can clip it to the hole in the kora gourd. You can quickly check the tuning of your kora by playing each string in turn and looking at the tuner to see whether it is correct or needs to be adjusted upward or downward. Make sure that you buy a chromatic tuner, which has all notes and not just the six strings of a guitar. Of course, this is only a time-saver if you are using standard Western tuning.
