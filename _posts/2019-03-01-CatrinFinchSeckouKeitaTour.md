@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Catrin Finch and Seckou Keita Tour Dates"
+teaser: "UK 2019 concerts"
 breadcrumb: true
 categories:
     - concerts
