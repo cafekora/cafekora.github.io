@@ -5,11 +5,7 @@ title: "Tuning the Kora"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/learn/tuning/"
-image:
-   thumb: "gallery-example-1-thumb.jpg"
-gallery:
-    - image_url: gallery-example-1.jpg
-      caption: Great images by Unsplash.com
+
 ---
 Traditionally, the kora was tuned to suit the pitch of a singer's voice, or to accompany a bala (balafon) with fixed tuning. 
 Furthermore, the music of the jalis traditionally used a heptatonic scale, whose notes did not exactly correspond with the equal
@@ -32,7 +28,12 @@ Note that the numbers shown are simply the number of octaves higher than the low
 
 The F0 note is the first string on the left and is a semitone higher than the lowest (E) note on a guitar.
 
-{% include gallery %}
+<div class="row t60">
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
+        <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
+    </div><!-- /.medium-6.columns -->
+   
 
 ![Silaba tuning](https://cafekora.github.io/images/Fsilaba.png "F Silaba tuning")
 
