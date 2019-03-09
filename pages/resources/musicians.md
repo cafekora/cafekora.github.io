@@ -12,6 +12,10 @@ permalink: "/resources/musicians/"
 
 <http://www.sonajobarteh.com/>
 
+* **Kadialy Kouyate**
+
+<http://kadialykouyate.com/>
+
 * **Mory Kante**
 
 <http://www.morykante.com/>
@@ -41,9 +45,24 @@ permalink: "/resources/musicians/"
 
 <http://www.yacousiskora.com/>
 
+* **Sura Susso**
+
+<https://surasusso.wixsite.com/surakorasusso>
+
+* **Vieux Aliou Cissokho*
+
+<https://soundcloud.com/vieuxalioucissokho>
+
+* **Ballake Sissoko*
+<https://myspace.com/ballakesissoko>
+
 * **Kane Mathis**
 
 <http://www.kanemathis.com/>
+
+* **Jali Fily Cissokho*
+
+<http://jalifilycissokho.co.uk/>
 
 * **Prince Diabate**  
 
@@ -52,6 +71,10 @@ permalink: "/resources/musicians/"
 * **Joe O'Driscoll and Sekou Kouyate**
 
 <http://www.cumbancha.com/joeandsekou>
+
+* **Madou Sidiki Diabate**
+
+<https://myspace.com/madousidikidiabate>
 
 * **Amadou Fall**
 
