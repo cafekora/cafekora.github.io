@@ -30,10 +30,7 @@ alt="Sousou & Maher Cissoko: Jaliya Mouta" width="300" height="225" border="5" /
 Sousou & Maher Cissoko: Jaliya Mouta  
 </div>
 </div>
-
-
-
-
+***
 <div class="row">
 <div class="large-4 columns">
 <a href="{{ site.url }}{{ site.baseurl }}/music/videos5/">
@@ -53,7 +50,26 @@ Sona Jobarteh Jarabi
 alt="Seckou Keita The Invisible Man" width="300" height="225" border="5" /></a>
 Seckou Keita The Invisible Man
 </div> 
- 
+</div>
+<div class="row">
+<div class="large-4 columns">
+<a href="{{ site.url }}{{ site.baseurl }}/music/videos8/">
+<img src="http://img.youtube.com/vi/LhaEq1cbJUk/0.jpg" 
+alt="Cordes Anciennes" width="300" height="225" border="5" /></a>
+Cordes Anciennes 
  </div>
+ <div class="large-4 columns">
+<a href="{{ site.url }}{{ site.baseurl }}/music/videos9/">
+<img src="http://img.youtube.com/vi/j0B-WeDkkDY/0.jpg" 
+alt="Lalo Keba Drame" width="300" height="225" border="5" /></a>
+Lalo Keba Drame
+</div>
+ <div class="large-4 columns">
+<a href="{{ site.url }}{{ site.baseurl }}/music/videos10/">
+<img src="http://img.youtube.com/vi/v64oA-EQesY/0.jpg" 
+alt="Jalikunda Cissokho" width="300" height="225" border="5" /></a>
+Jalikunda Cissokho
+</div> 
+</div>
 
 Want to suggest other videos we should include here? Please use the contact form at the top of the page.
