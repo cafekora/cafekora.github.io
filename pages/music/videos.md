@@ -51,6 +51,7 @@ alt="Seckou Keita The Invisible Man" width="300" height="225" border="5" /></a>
 Seckou Keita The Invisible Man
 </div> 
 </div>
+***
 <div class="row">
 <div class="large-4 columns">
 <a href="{{ site.url }}{{ site.baseurl }}/music/videos8/">
@@ -71,5 +72,5 @@ alt="Jalikunda Cissokho" width="300" height="225" border="5" /></a>
 Jalikunda Cissokho
 </div> 
 </div>
-
+***
 Want to suggest other videos we should include here? Please use the contact form at the top of the page.
