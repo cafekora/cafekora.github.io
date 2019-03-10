@@ -15,12 +15,14 @@ Of course, it's easy to use the search function on YouTube or Vimeo. This page i
 <a href="{{ site.url }}{{ site.baseurl }}/music/videos2/">
 <img src="http://img.youtube.com/vi/9zfAYKyDhAA/0.jpg" 
 alt="Toumani Diabate The Mande Variations" width="300" height="225" border="5" /></a>
- </div>
+ Toumani Diabate The Mande Variations
+</div>
  <div class="large-4 columns">
 <a href="{{ site.url }}{{ site.baseurl }}/music/videos3/">
 <img src="http://img.youtube.com/vi/Lx7hhA0Aits/0.jpg" 
 alt="Toumani Diabate New Ancient Strings" width="300" height="225" border="5" /></a>
- </div>
+Toumani Diabate New Ancient Strings
+</div>
  <div class="large-4 columns">
 <a href="{{ site.url }}{{ site.baseurl }}/music/videos4/">
 <img src="http://img.youtube.com/vi/NiXgWghf2mE/0.jpg" 
@@ -37,7 +39,8 @@ alt="Toumani and Sidiki" width="300" height="225" border="5" /></a>
 <a href="{{ site.url }}{{ site.baseurl }}/music/videos6/">
 <img src="http://img.youtube.com/vi/oToZfPGMMBY/0.jpg" 
 alt="Sona Jobarteh Jarabi" width="300" height="225" border="5" /></a>
- </div>
+Sona Jobarteh Jarabi
+</div>
  <div class="large-4 columns">
 <a href="{{ site.url }}{{ site.baseurl }}/music/videos7/">
 <img src="http://img.youtube.com/vi/zVfx_m5--cQ/0.jpg" 
