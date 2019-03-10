@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "Kora Music"
 subheadline: "Videos of the world's best korafola"
+mediaplayer: true
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/music/videos/"
