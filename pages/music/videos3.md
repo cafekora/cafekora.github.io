@@ -23,9 +23,6 @@ video:
 ---
 <!--more-->
 
-## About the video by Kutiman
-
-> Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. <cite>[Wikipedia](http://en.wikipedia.org/wiki/Kutiman)</cite>
-
-
-<a href="{{ site.url }}{{ site.baseurl }}/music/videos/" Back to Video list></a>
+> 
+- **<a href="{{ site.url }}{{ site.baseurl }}/music/koramusic/">Kora Music ›</a>** (the music traditionally played on the kora) 
+-   <a href="{{ site.url }}{{ site.baseurl }}/music/videos/"> Back to Video list></a>
