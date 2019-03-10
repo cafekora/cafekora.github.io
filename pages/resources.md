@@ -11,5 +11,5 @@ This section includes pages which are mainly collections of useful links.
 - **<a href="{{ site.url }}{{ site.baseurl }}/resources/musicians/">Kora Musicians ›</a>** (links to musician websites) 
 - **<a href="{{ site.url }}{{ site.baseurl }}/resources/teachers/">Kora Teachers ›</a>** (links to people offering lessons & workshops) 
 - **<a href="{{ site.url }}{{ site.baseurl }}/resources/instrument sales/">Instrument Sales ›</a>** (makers and sellers of koras) 
-- **<a href="{{ site.url }}{{ site.baseurl }}/resources/websites/">Kora Wesbites ›</a>** (other useful websites) 
-- **<a href="{{ site.url }}{{ site.baseurl }}/resource/booksfilms/">Kora Books & Films ›</a>** (books and films related to the kora) 
+- **<a href="{{ site.url }}{{ site.baseurl }}/resources/websites/">Kora Websites ›</a>** (other useful websites) 
+- **<a href="{{ site.url }}{{ site.baseurl }}/resources/booksfilms/">Kora Books & Films ›</a>** (books and films related to the kora) 
