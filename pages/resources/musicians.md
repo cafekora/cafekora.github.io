@@ -49,18 +49,18 @@ permalink: "/resources/musicians/"
 
 <https://surasusso.wixsite.com/surakorasusso>
 
-* **Vieux Aliou Cissokho*
+* **Vieux Aliou Cissokho**
 
 <https://soundcloud.com/vieuxalioucissokho>
 
-* **Ballake Sissoko*
+* **Ballake Sissoko**
 <https://myspace.com/ballakesissoko>
 
 * **Kane Mathis**
 
 <http://www.kanemathis.com/>
 
-* **Jali Fily Cissokho*
+* **Jali Fily Cissokho**
 
 <http://jalifilycissokho.co.uk/>
 
