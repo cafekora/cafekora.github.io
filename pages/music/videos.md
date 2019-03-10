@@ -1,8 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Kora Music"
-subheadline: "Videos of the world's best kora players (korafola)"
+title: "Kora Videos"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/music/videos/"
@@ -50,11 +49,11 @@ alt="Toumani and Sidiki" width="120" height="90" border="5" /></a>
 alt="Sona Jobarteh Jarabi" width="120" height="90" border="5" /></a>
  </div>
  <div class="large-3 columns">
-- Sona Jobarteh Jarabi
+- Seckou Keita The Invisible Man
 
-<a href="{{ site.url }}{{ site.baseurl }}/music/videos6/">
-<img src="http://img.youtube.com/vi/oToZfPGMMBY/0.jpg" 
-alt="Sona Jobarteh Jarabi" width="120" height="90" border="5" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}/music/videos7/">
+<img src="http://img.youtube.com/vi/zVfx_m5--cQ/0.jpg" 
+alt="Seckou Keita The Invisible Man" width="120" height="90" border="5" /></a>
  </div> 
  
  </div>
