@@ -7,7 +7,7 @@ header:
 permalink: "/music/videos/"
 
 ---
-Of course, it's easy to use the search function on YouTube or Vimeo. This page is simply a curated list of some of the finest kora videos.
+Our selection of some of the best kora videos on the internet.
 
 <div class="row">
 
@@ -61,3 +61,5 @@ Seckou Keita The Invisible Man
 </div> 
  
  </div>
+
+Want to suggest other videos we should include here? Please use the contact form at the top of the page.
