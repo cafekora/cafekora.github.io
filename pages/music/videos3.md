@@ -20,9 +20,4 @@ video:
     contentURL: "https://www.youtube.com/watch?v=Lx7hhA0Aits"
     thumbnailUrl: "http://img.youtube.com/vi/Lx7hhA0Aits/maxresdefault.jpg"
 ---
----
-<!--more-->
-
-> 
-- **<a href="{{ site.url }}{{ site.baseurl }}/music/koramusic/">Kora Music ›</a>** (the music traditionally played on the kora) 
--   <a href="{{ site.url }}{{ site.baseurl }}/music/videos/"> Back to Video list></a>
+- **<a href="{{ site.url }}{{ site.baseurl }}/music/videos/"> Back to Video list></a>**
