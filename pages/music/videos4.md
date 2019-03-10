@@ -1,10 +1,10 @@
 ---
 layout: video
 show_meta: false
-title: "Toumani Diabate Mande Variations"
+title: "Sousou & Maher Cissoko: Jaliya Mouta"
 permalink: "/music/videos4/"
 
-#iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/9zfAYKyDhAA' frameborder='0' allowfullscreen></iframe>"
+#iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/NiXgWghf2mE' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -16,6 +16,6 @@ permalink: "/music/videos4/"
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/9zfAYKyDhAA"
-    contentURL: "https://www.youtube.com/watch?v=9zfAYKyDhAA"
-    thumbnailUrl: "http://img.youtube.com/vi/9zfAYKyDhAA/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/NiXgWghf2mE"
+    contentURL: "https://www.youtube.com/watch?v=NiXgWghf2mE"
+    thumbnailUrl: "http://img.youtube.com/vi/NiXgWghf2mE/maxresdefault.jpg"
