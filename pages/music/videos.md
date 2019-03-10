@@ -23,4 +23,3 @@ New Ancient Strings
 <img src="http://img.youtube.com/vi/Lx7hhA0Aits/0.jpg" 
 alt="Toumani Diabate The Mande Variations" width="240" height="180" border="10" /></a>
 
-<a href="{{ site.url }}{{ site.baseurl }}/music/videos/" Back to Video list></a>
