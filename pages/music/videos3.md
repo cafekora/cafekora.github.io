@@ -20,3 +20,5 @@ video:
     contentURL: "https://www.youtube.com/watch?v=Lx7hhA0Aits"
     thumbnailUrl: "http://img.youtube.com/vi/Lx7hhA0Aits/maxresdefault.jpg"
 ---
+
+<a href="{{ site.url }}{{ site.baseurl }}/music/videos/" Back to Video list></a>
