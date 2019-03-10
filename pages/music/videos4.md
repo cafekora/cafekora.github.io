@@ -5,7 +5,7 @@ title: "Sousou & Maher Cissoko: Jaliya Mouta"
 permalink: "/music/videos4/"
 
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/NiXgWghf2mE' frameborder='0' allowfullscreen></iframe>"
-#
+
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
 # thumbnail.
