@@ -20,5 +20,12 @@ video:
     contentURL: "https://www.youtube.com/watch?v=Lx7hhA0Aits"
     thumbnailUrl: "http://img.youtube.com/vi/Lx7hhA0Aits/maxresdefault.jpg"
 ---
+---
+<!--more-->
+
+## About the video by Kutiman
+
+> Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. <cite>[Wikipedia](http://en.wikipedia.org/wiki/Kutiman)</cite>
+
 
 <a href="{{ site.url }}{{ site.baseurl }}/music/videos/" Back to Video list></a>
