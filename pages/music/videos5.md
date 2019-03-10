@@ -1,10 +1,10 @@
 ---
 layout: video
 show_meta: false
-title: "Toumani Diabate Mande Variations"
-permalink: "/music/videos2/"
+title: "Toumani and Sidiki"
+permalink: "/music/videos5/"
 
-#iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/9zfAYKyDhAA' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/qPsvNN2iIrQ' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -16,6 +16,6 @@ permalink: "/music/videos2/"
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/9zfAYKyDhAA"
-    contentURL: "https://www.youtube.com/watch?v=9zfAYKyDhAA"
-    thumbnailUrl: "http://img.youtube.com/vi/9zfAYKyDhAA/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/qPsvNN2iIrQ"
+    contentURL: "https://www.youtube.com/watch?v=qPsvNN2iIrQ"
+    thumbnailUrl: "http://img.youtube.com/vi/qPsvNN2iIrQ/maxresdefault.jpg"
