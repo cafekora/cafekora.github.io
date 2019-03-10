@@ -1,9 +1,7 @@
 ---
-#layout: video
-layout: page
+layout: video
 show_meta: false
-title: "Kora Music"
-subheadline: "Videos of the world's best korafola"
+title: "Toumani Diabate Mande Variations"
 permalink: "/music/videos2/"
 
 #iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/9zfAYKyDhAA' frameborder='0' allowfullscreen></iframe>"
@@ -22,6 +20,3 @@ video:
     contentURL: "https://www.youtube.com/watch?v=9zfAYKyDhAA"
     thumbnailUrl: "http://img.youtube.com/vi/9zfAYKyDhAA/maxresdefault.jpg"
 ---
-<!--more-->
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/9zfAYKyDhAA' frameborder='0' allowfullscreen></iframe>"
-> Toumani Diabate Mande Variations
