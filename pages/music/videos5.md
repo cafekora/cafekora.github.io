@@ -19,3 +19,5 @@ video:
     embedURL: "https://www.youtube.com/embed/qPsvNN2iIrQ"
     contentURL: "https://www.youtube.com/watch?v=qPsvNN2iIrQ"
     thumbnailUrl: "http://img.youtube.com/vi/qPsvNN2iIrQ/maxresdefault.jpg"
+--
+- **<a href="{{ site.url }}{{ site.baseurl }}/music/videos/"> Back to Video list</a>**
