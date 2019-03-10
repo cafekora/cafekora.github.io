@@ -4,7 +4,7 @@ show_meta: false
 title: "Sousou & Maher Cissoko: Jaliya Mouta"
 permalink: "/music/videos4/"
 
-#iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/NiXgWghf2mE' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/NiXgWghf2mE' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -19,5 +19,6 @@ video:
     embedURL: "https://www.youtube.com/embed/NiXgWghf2mE"
     contentURL: "https://www.youtube.com/watch?v=NiXgWghf2mE"
     thumbnailUrl: "http://img.youtube.com/vi/NiXgWghf2mE/maxresdefault.jpg"
+  
 ---
 - **<a href="{{ site.url }}{{ site.baseurl }}/music/videos/"> Back to Video list</a>**
