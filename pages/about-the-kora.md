@@ -11,5 +11,5 @@ The Kora is a musical instrument, originally from West Africa.
 This section includes pages on
 
 - **<a href="{{ site.url }}{{ site.baseurl }}/about/introduction/">Introduction ›</a>** (Some information about the kora) 
-- **<a href="{{ site.url }}{{ site.baseurl }}/about/construction/">Introduction ›</a>** (How a kora is made)
-- **<a href="{{ site.url }}{{ site.baseurl }}/about/jaliya/">Introduction ›</a>** (The kora is traditionally played by Jali in West Africa, so this is a brief introduction to their role, history and culture.)
+- **<a href="{{ site.url }}{{ site.baseurl }}/about/construction/">Construction ›</a>** (How a kora is made)
+- **<a href="{{ site.url }}{{ site.baseurl }}/about/jaliya/">Jaliya ›</a>** (The kora is traditionally played by Jali in West Africa, so this is a brief introduction to their role, history and culture.)
