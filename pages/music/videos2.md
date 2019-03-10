@@ -20,5 +20,4 @@ video:
     contentURL: "https://www.youtube.com/watch?v=9zfAYKyDhAA"
     thumbnailUrl: "http://img.youtube.com/vi/9zfAYKyDhAA/maxresdefault.jpg"
 ---
-
-<a href="{{ site.url }}{{ site.baseurl }}/music/videos/" Back to Video list></a>
+- **<a href="{{ site.url }}{{ site.baseurl }}/music/videos/"> Back to Video list</a>**
