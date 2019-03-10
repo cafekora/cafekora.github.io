@@ -4,7 +4,7 @@ show_meta: false
 title: "Toumani Diabate Mande Variations"
 permalink: "/music/videos2/"
 
-#iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/9zfAYKyDhAA' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/9zfAYKyDhAA' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
