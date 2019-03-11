@@ -6,7 +6,7 @@ breadcrumb: true
 categories:
     - concerts
 tags:
-    - news
+    - blog
     - content
     - post
     - post format
