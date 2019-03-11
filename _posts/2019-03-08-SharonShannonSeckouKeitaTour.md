@@ -12,8 +12,6 @@ tags:
     - post format
 image:
     title: gallery-example-1.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
 ---
 The hard-working Seckou Keita, in addition to solo gigs and touring with Catrin Finch later in the year, will also be touring with legendary Irish Accordion & Fiddle player, Sharon Shannon.
 Sharon will perform music from her many albums throughout the years, including 2017’s Sacred Earth, which included a number of African musicians, including Seckou Keita. They will be joined by her band, Jim Murray acoustic guitar, Jack Maher electric guitar, vocals and Sean Regan, fiddle, percussion and beatbox.
