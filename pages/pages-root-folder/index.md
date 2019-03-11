@@ -21,7 +21,7 @@ widget3:
   title: "Kora News"
   url: '/blog/'
   image: widget-3-302x182.jpg
-  text: 'Read the latest updates on concerts, workshops, festivals and changes to this site.'
+  text: 'Read the latest updates on concerts, tours, album releases, workshops, festivals and changes to this site.'
 #
 # Use the call for action to show a button on the frontpage
 #
