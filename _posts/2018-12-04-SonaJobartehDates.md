@@ -10,8 +10,8 @@ tags:
     - content
     - post
     - post format
-image:
-    title: gallery-example-1.jpg
+header:
+    image_fullwidth: gallery-example-1.jpg
 ---
 Sona Jobarteh continues to rack up the air miles with a trip down under for WOMAD in Adelaide, South Australia and WOMAD in New Plymouth New Zealand in March. She plays some big venues in California in June and has various European Festival appearances lined up. 
 
