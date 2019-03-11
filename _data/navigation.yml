@@ -36,8 +36,6 @@
     url: "/learn/practice/"
   - title: "Music notation"
     url: "/learn/notation/"
-  - title: "Songs"
-    url: "/learn/songs/"
 
 - title: "Resources & Links"
   url: "/resources/"
@@ -55,7 +53,7 @@
     url: "/resources/booksfilms"
 
 - title: News
-  url: "/blog/"
+  url: "/news/"
   side: left
   dropdown:
   - title: "News Archive"
