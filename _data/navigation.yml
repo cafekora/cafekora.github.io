@@ -53,11 +53,11 @@
     url: "/resources/booksfilms"
 
 - title: News
-  url: "/news/"
+  url: "/blog/"
   side: left
   dropdown:
   - title: "News Archive"
-    url: "/news/archive/"
+    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
