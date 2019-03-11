@@ -57,7 +57,7 @@
   side: left
   dropdown:
   - title: "News Archive"
-    url: "/blog/archive/"
+    url: "/news/archive/"
 
 - title: "Search"
   url: "/search/"
