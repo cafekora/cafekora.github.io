@@ -9,17 +9,17 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "About the kora"
-  url: 'http://cafekora.github.io/about/'
+  url: 'http://cafekora.github.io/about-the-kora/'
   image: widget-1-302x182.jpg
-  text: 'Read more about what a kora is, where it comes from and how it is made.'
+  text: 'Read more about what a kora is, where the instrument originally comes from and how one is made.'
 widget2:
   title: "Kora Videos"
-  url: 'http://cafekora.github.io/videos/'
+  url: 'http://cafekora.github.io/music/videos/'
   text: 'YouTube has lots of great kora videos. See our curated list of the very best.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://cafekora.github.io/images/widget-2-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Kora News"
-  url: 'https://cafekora.github.io/news/'
+  url: '/blog/'
   image: widget-3-302x182.jpg
   text: 'Read the latest updates on concerts, workshops, festivals and changes to this site.'
 #
@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  text: If you would like **occasional** emails with site news, click here ›
   style: alert
 permalink: /index.html
 #
@@ -43,10 +43,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/9Le69Z4UkTs" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
