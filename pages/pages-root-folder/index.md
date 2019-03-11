@@ -16,7 +16,7 @@ widget2:
   title: "Kora Videos"
   url: '/music/videos/'
   text: 'YouTube has lots of great kora videos. See our curated list of the very best. Or click on the image above to watch the current featured track.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://img.youtube.com/vi/U8P9aQ0Phlo/0.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://img.youtube.com/vi/U8P9aQ0Phlo/0.jpg" width="244" height="182" alt=""/></a>'
 widget3:
   title: "Kora News"
   url: '/blog/'
