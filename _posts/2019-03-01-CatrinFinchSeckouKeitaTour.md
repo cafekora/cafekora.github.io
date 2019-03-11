@@ -12,8 +12,6 @@ tags:
     - post format
 image:
     title: gallery-example-1.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
 ---
 Various UK dates announced for Catrin Finch and Seckou Keita in 2019 (and one in Vienna) after playing in France earlier in the year. The venues include a tour of the Scottish Highlands and Islands in June, including gigs on the Islands of Lewis and Skye.
 
