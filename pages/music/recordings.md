@@ -31,17 +31,17 @@ alt="Toumani Diabate Kaira" width="300" height="225" border="5">
 <div class="row">
 <div class="large-4 columns">
 <img src="{{ site.urlimg }}TheMandéVariations.jpg" 
-alt="Toumani Diabate The Mandé Variations" width="300" height="225" border="5" />
+alt="Toumani Diabate The Mandé Variations" width="300" height="225" border="5">
    <p>Toumani Diabaté The Mandé Variations</p>
  </div>
  <div class="large-4 columns">
 <img src="{{ site.urlimg }}SonaJobartehFasiya.jpg" 
-alt="Sona Jobarteh Fasiya" width="300" height="225" border="5" />
+alt="Sona Jobarteh Fasiya" width="300" height="225" border="5">
     <p>Sona Jobarteh Fasiya</p>
 </div>
  <div class="large-4 columns">
 <img src="{{ site.urlimg }}SeckouKeita22Strings.jpg" 
-alt="Seckou Keita 22 Strings" width="300" height="225" border="5" />
+alt="Seckou Keita 22 Strings" width="300" height="225" border="5">
     <p>Seckou Keita 22 Strings</p>
 </div> 
 </div>
