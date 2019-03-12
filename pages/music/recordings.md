@@ -26,7 +26,7 @@ alt="New Ancient Strings" width="300" height="225" border="5">
  <div class="large-4 columns">
 <img src="{{ site.urlimg }}ToumaniDiabateKaira.jpg" 
 alt="Toumani Diabate Kaira" width="300" height="225" border="5">
-   <br>
+   <p></p>
    <p><b>Toumani Diabaté</b> Kaira.</p>
    <br> Recorded in 1987, this was the first solo kora recording. The notes to the album point out that there is no overdubbing or double tracking. It was hard for listeners to believe that only a single musician was playing. A groundbreaking release.
 </div>
@@ -43,9 +43,9 @@ alt="Toumani Diabate The Mandé Variations" width="300" height="225" border="5">
 <img src="{{ site.urlimg }}SonaJobartehFasiya.jpg" 
 alt="Sona Jobarteh Fasiya" width="300" height="225" border="5">
     <p><b>Sona Jobarteh</b> Fasiya</p>
-</div>
    <br>A really beautiful recording from the Anglo-Gambian Sona Jobarteh. In addition to playing the kora and singing, she plays other instruments and her band is superb.
- <div class="large-4 columns">
+</div>
+<div class="large-4 columns">
 <img src="{{ site.urlimg }}SeckouKeita22Strings.jpg" 
 alt="Seckou Keita 22 Strings" width="300" height="225" border="5">
     <p><b>Seckou Keita</b> 22 Strings</p>
