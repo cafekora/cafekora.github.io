@@ -14,18 +14,20 @@ Our selection of some of the best kora CDs - musts for your collection.
 <div class="large-4 columns">
 <img src="{{ site.urlimg }}BallakeSissokoTomora.jpg" 
 alt="BallakeSissoko Tomora" width="300" height="225" border="5">
-   <p><b>Ballaké Sissoko</b> Tomora</p>
+   <p><b>Ballaké Sissoko</b> Tomora.</p>
 <br>Ballaké plays in a trio on this recording, with Mahamadou Kamissoko on ngoni and Fassély Diabaté on bala and singer Rokia Traoré makes a guest appearance. 
 </div>
  <div class="large-4 columns">
 <img src="{{ site.urlimg }}NewAncientStrings.jpg" 
 alt="New Ancient Strings" width="300" height="225" border="5">
-   <p><b>Toumani Diabaté, Ballaké Sissoko</b> <br>New Ancient Strings  </p> 
+   <p><b>Toumani Diabaté, Ballaké Sissoko</b> <br>New Ancient Strings. </p>
+<br>The duo pay tribute to their fathers who recorded the original Ancient Strings album. One of the all time great kora instrumental recordings.
 </div>
  <div class="large-4 columns">
 <img src="{{ site.urlimg }}ToumaniDiabateKaira.jpg" 
 alt="Toumani Diabate Kaira" width="300" height="225" border="5">
    <p>Toumani Diabaté Kaira </p>
+   <br> Recorded in 1987, this was the first solo kora recording. The notes to the album point out that there is no overdubbing or double tracking. It was hard for listeners to believe that only a single musician was playing. Groundbreaking.
 </div>
 </div>
 ***
