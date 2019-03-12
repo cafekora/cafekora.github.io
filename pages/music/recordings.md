@@ -15,7 +15,7 @@ Our selection of some of the best kora CDs - musts for your collection.
 <img src="{{ site.urlimg }}BallakeSissokoTomora.jpg" 
 alt="BallakeSissoko Tomora" width="300" height="225" border="5">
    <p><b>Ballaké Sissoko</b> Tomora</p>
-Ballaké plays in a trio on this recording, with Mahamadou Kamissoko on ngoni and Fassély Diabaté on bala and singer Rokia Traoré makes a guest appearance. 
+<br>Ballaké plays in a trio on this recording, with Mahamadou Kamissoko on ngoni and Fassély Diabaté on bala and singer Rokia Traoré makes a guest appearance. 
 </div>
  <div class="large-4 columns">
 <img src="{{ site.urlimg }}NewAncientStrings.jpg" 
