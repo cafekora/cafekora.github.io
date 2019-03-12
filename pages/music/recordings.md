@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Kora Videos"
+title: "Kora Albums/CDs"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/music/recordings/"
