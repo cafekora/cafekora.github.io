@@ -14,12 +14,12 @@ Our selection of some of the best kora CDs - musts for your collection.
 <div class="large-4 columns">
 <img src="{{ site.urlimg }}BallakeSissokoTomora.jpg" 
 alt="BallakeSissoko Tomora" width="300" height="225" border="5">
-   <p>Ballaké Sissoko Tomora</p>
+   <p><b>Ballaké Sissoko<b> Tomora</p>
 </div>
  <div class="large-4 columns">
 <img src="{{ site.urlimg }}NewAncientStrings.jpg" 
 alt="New Ancient Strings" width="300" height="225" border="5">
-   <p>Toumani Diabaté, Ballaké Sissoko New Ancient Strings  </p> 
+   <p><b>Toumani Diabaté, Ballaké Sissoko</b> <br>New Ancient Strings  </p> 
 </div>
  <div class="large-4 columns">
 <img src="{{ site.urlimg }}ToumaniDiabateKaira.jpg" 
