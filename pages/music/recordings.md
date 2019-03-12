@@ -55,4 +55,5 @@ alt="Seckou Keita 22 Strings" width="300" height="225" border="5">
 ***
 
 There are, of course, many other great recordings, which we'll add here over time.
-<br>If you'd like to contribute a suggestion (or review), please use the contact form at the top of the page.
+
+If you'd like to contribute a suggestion (or review), please use the contact form at the top of the page.
