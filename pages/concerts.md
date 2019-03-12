@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "News of concert dates, festivals and tours"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "BallakeSissokoKora.jpg"
 permalink: "/concerts/"
 ---
 <ul>
