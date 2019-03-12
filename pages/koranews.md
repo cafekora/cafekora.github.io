@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Kora News"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "korabridge.jpg"
 permalink: "/koranews/"
 ---
 <ul>
