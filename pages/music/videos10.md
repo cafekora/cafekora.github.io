@@ -18,7 +18,7 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/v64oA-EQe
 video:
     embedURL: "https://www.youtube.com/embed/v64oA-EQesY"
     contentURL: "https://www.youtube.com/watch?v=v64oA-EQesY"
-    thumbnailUrl: "http://img.youtube.com/vi/v64oA-EQesY/maxresdefault.jpg"
+    thumbnailUrl: "https://img.youtube.com/vi/v64oA-EQesY/maxresdefault.jpg"
     
 ---
 - **<a href="{{ site.url }}{{ site.baseurl }}/music/videos/"> Back to Video list</a>**
