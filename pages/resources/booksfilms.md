@@ -8,7 +8,7 @@ permalink: "/resources/booksfilms/"
 ---
 
 ## Books
-The following list is by no means exhaustive, but are recommended for further reading on the culture, history and music of the Mande people.
+The following list is by no means exhaustive, but these texts are recommended for further reading on the culture, history and music of the Mande people.
 
 - **Griots and Griottes Masters of Words and Music (African Expressive Cultures)** Thomas A. Hale (2007)
 
