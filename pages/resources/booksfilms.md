@@ -31,7 +31,7 @@ The following list is by no means exhaustive, but these texts are recommended fo
 - **Growing into Music in Mali and Guinea.**
 
 Two films funded by the UK Arts & Humanities’ Research Council, “Da Kali - the pledge to the art of the griot” and Part 2 “Dò farala a kan: something has been added” are about the lives of children growing up in Jali families in Mali. They learn traditional songs and play kora, ngoni, jembe and bala. The films were made by Professor Lucy Durán and can be viewed online:
-<http://growingintomusic.co.uk/mali-and-guinea-music-of/films-of-growing-into-music.html>
+<https://growingintomusic.co.uk/mali-and-guinea-music-of/films-of-growing-into-music.html>
 
 - **Mandekalou (2004) The Art and Soul of the Mande Griots.**
 
