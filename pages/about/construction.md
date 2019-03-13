@@ -54,3 +54,8 @@ and ten on the right. These two rows get closer together as they get closer to t
 A hole is cut into the gourd, similar to the sound hole of a guitar or violin. In addition to allowing the sound of the 
 strings to be amplified, it may also used to store spare strings, and as a place for listeners to slip bank notes as a 
 reward to the musician. 
+
+<div class="row t60">
+        <img src="{{ site.urlimg }}KoraLabelled.jpg" alt="Kora with labelled parts">
+        <p>Different parts of the kora</p>
+</div>
