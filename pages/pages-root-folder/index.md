@@ -9,14 +9,14 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "About the kora"
-  url: 'http://cafekora.github.io/about-the-kora/'
+  url: '/about-the-kora/'
   image: widget-1-302x182.jpg
   text: 'Read more about what a kora is, where the instrument originally comes from and how one is made.'
 widget2:
   title: "Kora Videos"
   url: '/music/videos/'
   text: 'YouTube has lots of great kora videos. See our curated list of the very best. Or click on the image above to watch the current featured track.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://img.youtube.com/vi/U8P9aQ0Phlo/0.jpg" width="244" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://img.youtube.com/vi/U8P9aQ0Phlo/0.jpg" width="244" height="182" alt=""/></a>'
 widget3:
   title: "Kora News"
   url: '/blog/'
