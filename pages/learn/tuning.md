@@ -42,3 +42,10 @@ instrument tuned to an F scale, this means that the two B-flat strings are tuned
     </div></div>
 
 An electronic tuner - an inexpensive battery-powered device which clips onto a musical instrument can be a useful investment. You can clip it to the hole in the kora gourd. You can quickly check the tuning of your kora by playing each string in turn and looking at the tuner to see whether it is correct or needs to be adjusted upward or downward. Make sure that you buy a chromatic tuner, which has all notes and not just the six strings of a guitar. Of course, this is only a time-saver if you are using standard Western tuning.
+
+If we map the notes of the kora in Silaba tuning onto a piano keyboard, it is readily apparent that not all of the notes of the keyboard are available on the kora. We have, for example, 4 places where an F can be played, only 2 where B Flat can be played and notes which are not part of the F major scale are not available.
+<div class="row t60">
+    <div class="medium-3 columns b30">
+        <img src="{{ site.urlimg }}korakeyboard.jpg" alt="F Silaba Tuning shown on piano">
+        <p> Kora Strings and piano note equivalents (F Silaba)</p>
+    </div></div>
