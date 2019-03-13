@@ -30,6 +30,8 @@ One can also use a form of tablature. Harald Lorenz's Jaliya software uses its o
         <p>Simple tablature example: Kumbengo for the song Bani Le (bass notes only)</p>
 </div>
 
+(Note that the three representations above are of different versions of the same piece; they are not equivalent.)
+
 However, most musicians will learn by listening and memorizing, albeit possibly helped by a 
 mobile phone or recording device. This method of careful listening, repetition and rote learning is common to nearly all folk 
 musics and has several advantages. Learning by listening carefully to a teacher allows subtle phrasing and technique to be 
