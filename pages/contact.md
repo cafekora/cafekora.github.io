@@ -1,5 +1,6 @@
 ---
 layout: page
+comments: false
 title: "Contact"
 meta_title: "Contact and use our contact form"
 teaser: "Get in touch? Use the contact form."
