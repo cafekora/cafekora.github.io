@@ -9,5 +9,5 @@ permalink: "/music/"
 This section includes pages on
 
 - **<a href="{{ site.url }}{{ site.baseurl }}/music/koramusic/">Kora Music ›</a>** (the music traditionally played on the kora) 
-- **Recordings** (links to some of the best kora recordings)
-- **Videos** (links to great videos on YouTube and elsewhere)
+- **<a href="{{ site.url }}{{ site.baseurl }}/music/recordings/">Recordings ›</a>** (links to some of the best kora recordings)
+- **<a href="{{ site.url }}{{ site.baseurl }}/music/videos/">Videos ›</a>** (links to great videos on YouTube and elsewhere)
