@@ -14,14 +14,10 @@ header:
 
 ## Features
 
-* [Responsive Gallery][1], [Videos][2], [Grid][3], [Typography][4],...
 * Resources section - with information on instrument makers, teachers, courses etc.
-* Links to other websites
 * Album Reviews
 * Gig dates
 * Information for learners - tuning, lessons, instrument care
-
-* Play Video and Audio with [Mediaelement.js][5]
 
 ## Dedication!
 
@@ -31,12 +27,3 @@ With thanks to all the korafola in the world!
 
 Find something wrong? Like what we're doing? Got some news, a link to add, or questions?
 Please get in touch through our contact page!
-
- [1]: {{ site.url }}/design/gallery/
- [2]: {{ site.url }}/design/video/
- [3]: {{ site.url }}/design/grid/
- [4]: {{ site.url }}/design/typography/
- [5]: {{ site.url }}/design/mediaelement_js/
- [6]: https://github.com/
- [7]: #
- [8]: #
