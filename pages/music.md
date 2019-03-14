@@ -1,6 +1,6 @@
 ---
 layout: page
-contacts: false
+comments: false
 show_meta: false
 title: "Music"
 header:
