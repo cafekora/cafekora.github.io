@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: https://tinyletter.com/thekoracafe
   text: If you would like to receive (very) occasional emails with site news, click here ›
   style: alert
 permalink: /index.html
