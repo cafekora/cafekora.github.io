@@ -18,4 +18,4 @@ You should also look at the quality of materials used - the wood, the calabash, 
 In general, I would tend to avoid instruments which have been mass produced for sale to tourists as decoration. These can often be identified by their heavy coating of varnish, or being highly decorated. There are some beautiful koras decorated with pyrography for sale to tourists in certain markets in West Africa, but the emphasis is on making an attractive souvenir rather than playability.
 
 
-There is a list of companies and people who sell Koras online <a href="{{ site.url }}{{ site.baseurl }}/resources/instrumentsales" here:>
+You can see our list of companies and people who sell Koras online <a href="{{ site.url }}{{ site.baseurl }}/resources/instrumentsales" here ›</a>
