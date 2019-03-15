@@ -52,6 +52,10 @@
   - title: "Books and Films"
     url: "/resources/booksfilms"
 
+- title: FAQs
+  url: "/faq/"
+  side: left
+
 - title: News
   url: "/blog/"
   side: left
