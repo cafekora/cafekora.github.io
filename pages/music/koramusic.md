@@ -28,7 +28,7 @@ These Kumbengo patterns are augmented by “Birimitingo” - fast, highly orname
 
 A really great example of this is the following short video by Toumani Diabate. He spends a few seconds playing the bass part of the song "Jarabi" (which means love, or passion), then plays the full Kumbengo and then begins to improvise while continuing to play the Kumbengo.
 
-a href="{{ site.url }}{{ site.baseurl }}/music/videoskumbengodemo/">
+<a href="{{ site.url }}{{ site.baseurl }}/music/videoskumbengodemo/">
 <img src="https://img.youtube.com/vi/8luhdxS2KuM/0.jpg" 
 alt="Toumani Diabate" width="300" height="225" border="5" /></a>
 Toumani Diabate demonstrates kumbengo and improvisation.
