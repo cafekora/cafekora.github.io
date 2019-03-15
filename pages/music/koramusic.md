@@ -25,3 +25,10 @@ The Kumbengo has a certain number of “pulses” - perhaps as few as 6 or as ma
 Many pieces have one Kumbengo which is played in much the same way by all players,  but others may show significant variation with geographical location, family or even individual musicians playing them differently, although usually they will still remain recognizably the same piece. 
 
 These Kumbengo patterns are augmented by “Birimitingo” - fast, highly ornamented fragments of melody. They can be thought of as being similar to a 'solo.' During a performance, the player may freely switch between the two.  The rhythm and pattern of the Kumbengo is always preserved and the player must smoothly transition out of the Kumbengo into Birimitingo and back again, often at specific points in the Kumbengo.
+
+A really great example of this is the following short video by Toumani Diabate. He spends a few seconds playing the bass part of the song "Jarabi" (which means love, or passion), then plays the full Kumbengo and then begins to improvise while continuing to play the Kumbengo.
+
+a href="{{ site.url }}{{ site.baseurl }}/music/videoskumbengodemo/">
+<img src="https://img.youtube.com/vi/8luhdxS2KuM/0.jpg" 
+alt="Toumani Diabate" width="300" height="225" border="5" /></a>
+Toumani Diabate demonstrates kumbengo and improvisation.
