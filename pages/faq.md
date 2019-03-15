@@ -9,7 +9,7 @@ A compilation of some of the questions we've been asked (and answers.) If there'
 
 ## FAQs
 
-## About the kora.
+## About the kora
 
 - **What are the origins of the kora?**
 
@@ -45,7 +45,7 @@ It would take thousands of words to answer this properly! See the music section 
 
 On this website, we mainly focus on traditional kora playing and the West African (Mande) repertoire. However, the monks of Keur Mousa Abbey in Senegal have used the kora to accompany Gregorian chant for many decades and people are using the kora to play Jazz, Reggae and many other modern styles of music and there are modern classical pieces written for kora. So it is by no means the case that there is only one way to play.
 
-## Learning to play.
+## Learning to play
 
 - **Can I find a kora teacher in my area?**
 
