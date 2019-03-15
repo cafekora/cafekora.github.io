@@ -11,6 +11,7 @@ A compilation of some of the questions we've been asked (and answers.) If there'
 
 ## About the kora
 
+
 - **What are the origins of the kora?**
 
 The Jali have lots of traditional stories and oral history about how they first got the kora. Many of these involve djinns (also called genies when they live in lamps!) The historical evidence suggests that the kora probably evolved from similar, less complex instruments, in the late eighteenth or early nineteenth centuries.
@@ -44,8 +45,8 @@ It would take thousands of words to answer this properly! See the music section 
 - **Are there many ways to play the kora?**
 
 On this website, we mainly focus on traditional kora playing and the West African (Mande) repertoire. However, the monks of Keur Mousa Abbey in Senegal have used the kora to accompany Gregorian chant for many decades and people are using the kora to play Jazz, Reggae and many other modern styles of music and there are modern classical pieces written for kora. So it is by no means the case that there is only one way to play.
-
 ## Learning to play
+
 
 - **Can I find a kora teacher in my area?**
 
