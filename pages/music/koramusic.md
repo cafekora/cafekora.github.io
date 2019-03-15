@@ -31,4 +31,6 @@ A really great example of this is the following short video by Toumani Diabate. 
 <a href="{{ site.url }}{{ site.baseurl }}/music/videoskumbengodemo/">
 <img src="https://img.youtube.com/vi/8luhdxS2KuM/0.jpg" 
 alt="Toumani Diabate" width="300" height="225" border="5" /></a>
+
+
 Toumani Diabate demonstrates kumbengo and improvisation.
