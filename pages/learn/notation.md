@@ -23,7 +23,7 @@ the index finger and thumb on each hand for a better representation of kora play
         <p>Opening notes of Bani Le - showing strings</p>
 </div>
 
-One can also use a form of tablature. Harald Lorenz's Jaliya software uses its own form of tablature. Other musicians have generated a simple spreadsheet to show which strings are played and it's relatively easy
+One can also use a form of tablature. Harald Lorenz's Jaliya software uses its own form of tablature. Another method is to create a simple spreadsheet to show which strings are played. Each "beat" can be sub-divided into 4 (or 8) pulses and a number used to show which string is played, which finger or thumb is played with and the length and timing of the note. Even here, there is no standard convention on note numbering. Some people simply count from 1 to 10 (or 11) from the player upwards. Some prefer to count from the musician upwards for the thumb and from the kora downwards for notes played with the index finger.
 
 <div class="row t60">
         <img src="{{ site.urlimg }}BaniTabWeb.jpg" alt="Bani Kumbengo Tablature">
