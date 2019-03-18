@@ -17,10 +17,17 @@ header:
 **Workshop Announcement**
 
 Learn Kora & Balafon with Sefo Kanuteh on May 26th 2019 at Wooden Roots, Rendlesham, Suffolk.
+
 Enjoy 2 hours guided tuition with the balafon, take a break - have some lunch and then relax into 2 hours with the kora - all guided by Sefo Kanuteh in our beautiful studio.
+
 Limited Spaces
+
 £35
+
 11am - 4pm
+
 Call: 07846 761145
+
 Email: info@woodenroots.com
+
 <https://www.woodenroots.com>
