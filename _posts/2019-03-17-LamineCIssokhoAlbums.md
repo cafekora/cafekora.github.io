@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Lamine Cissokho"
-teaser: "2019 releases"
+title:  "Lamine Cissokho 2019 Albums"
+teaser: "Two forthcoming releases"
 breadcrumb: true
 categories:
     - koranews
