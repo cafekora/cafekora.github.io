@@ -1,4 +1,4 @@
---
+---
 layout: page
 title:  "Wooden Roots Kora & Balafon Tuition"
 teaser: "with Sefo Kanuteh in Suffolk, UK"
