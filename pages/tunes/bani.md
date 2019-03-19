@@ -5,7 +5,7 @@ mediaplayer: true
 title: "Playing the song Bani Le"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/tunes/bani"
+permalink: "/tunes/bani/"
 ---
 Bani Le (or just Bani) is a very good piece for beginners on the kora to tackle. It is a song which talks about the 19th century war between the Muslim Fula kingdom and the non-Muslim Kabu kingdom. It is in praise of the defeated king of Kabu, Janke Wali. The story is that the the king of Kabu (or Gabou) sent messengers to a Muslim village to buy horses. They were asked to say prayers in the Muslim way, but refused and all but one were killed, the man spared being sent back to his king to tell what had happened. The word “Bani” means refusal. In Mali, this song has been also used to praise Sanunge Guimba Keita who resisted French colonial troops. In Casamance, a variant of Bani called Sanu or Sanou (which means gold) is a very popular praise song. 
 
@@ -16,20 +16,20 @@ On this page, the music is shown in three different forms - staff notation (writ
 There's also a (synthesised) mp3 of each variant - apologies for the poor quality of these, but they simply illustrate the basic tune.  
 
 1. At its most basic, Bani can be broken down into a sequence of 8 evenly spaced notes. The very simplest way to play it is to simply use 4 strings on the right hand side. Play the first right hand string, then the second, then the seventh, then the second. That is the first bar. For the second bar, it is very similar - plat the first right hand string, then the second, then the fifth string, then the second. Try to keep a steady rhythm so that each note is of the same length.
-
-<div class="row t60">
-        <img src="{{ site.urlimg }}BaniLessonStaff1.png" alt="Bani Staff Notation">
+<div class="row">
+<div class="large-4 columns">
+        <img src="{{ site.urlimg }}BaniLessonStaff1.png" alt="Bani Staff Notation" width="300" height="225" border="5">
         <p>Kumbengo for the song Bani Le - Staff Notation v1</p>
 </div>
-<div class="row t60">
-        <img src="{{ site.urlimg }}BaniLessonTab1.jpg" alt="Bani Tab">
+<div class="large-4 columns">
+        <img src="{{ site.urlimg }}BaniLessonTab1.jpg" alt="Bani Tab" width="300" height="225" border="5">
         <p>Kumbengo for the song Bani Le - Tab Notation v1</p>
 </div>
-<div class="row t60">
-        <img src="{{ site.urlimg }}BaniLessonBridge1.jpg" alt="Bani Bridge">
+<div class="large-4 columns">
+        <img src="{{ site.urlimg }}BaniLessonBridge1.jpg" alt="Bani Bridge" width="300" height="225" border="5">
         <p>Bani Le - Bridge Notation v1</p>
 </div>
-
+</div>
 <audio src="{{ site.urlaudio }}BaniLesson1.mp3" type="audio/mp3" controls="controls"></audio>
 
 Take some time to get that sequence absolutely solid and repeatable and sounding musical. For each of the variants which follow, do the same. Make sure that you can repeat many times without error. Don't be afraid to start off at a slow pace and gradually increase as your muscle memory builds.
@@ -107,7 +107,6 @@ You can take this a step further by playing the octave notes slightly apart from
 </div>
 <audio src="{{ site.urlaudio }}BaniLesson5.mp3" type="audio/mp3" controls="controls"></audio>
 
-
 Note that because the music is cyclical, it doesn’t matter which one of those 8 notes we start on. This means that similarly, when notating the music, we can start anywhere. This can sometimes cause a little bit of confusion for beginners.
 
 For example, the video by Andrea here:<https://www.youtube.com/watch?v=U5FtMy5dCJA>
@@ -118,5 +117,4 @@ Whereas the video from zkora here:<https://vimeo.com/125132034>
 
 Shows the 8 note sequence as F-A-D-A-F-A-G-A, as we have done on this page.
 
-Both are correct - they’ve simply chosen a different F as the starting point. 
-
+Both are correct - they’ve simply chosen a different F as the starting point. Andrea's video lessons on <https://www.koralessons.com> are a great next step. He introduces a version of Bani very similar to the one shown on this page and then introduces many variations and improvisations over the course of a number of videos.
