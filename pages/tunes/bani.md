@@ -1,6 +1,7 @@
 ---
 layout: page
 show_meta: false
+mediaplayer: true
 title: "Playing the song Bani Le"
 header:
    image_fullwidth: "header_homepage_13.jpg"
@@ -36,8 +37,12 @@ We can also add octaves. So, whenever you play the F note (1st string on the rig
 You can take this a step further by playing the octave notes slightly apart from each other. This takes a little practice, so you may need to slow the piece right down again. Each time you play the F-A sequence (1st and 2nd strings on the right hand side), we’ll add another A - the 9th string on the left hand side.
 
 <div class="row t60">
-        <img src="{{ site.urlimg }}BaniLessonStaff5.jpg" alt="Bani Staff Notation">
-        <p>Kumbengo for the song Bani Le - Staff Notation</p>
+        <img src="{{ site.urlimg }}BaniLessonStaff5.png" alt="Bani Staff Notation">
+        <p>Kumbengo for the song Bani Le - Staff Notation v5</p>
+</div>
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonTab5.jpg" alt="Bani Tab">
+        <p>Kumbengo for the song Bani Le - Tab Notation v5</p>
 </div>
 
 <audio src="{{ site }}/audio/BaniLesson5.mp3" type="audio/mp3" controls="controls"></audio>
