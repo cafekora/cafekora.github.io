@@ -20,6 +20,10 @@ At its most basic, Bani can be broken down into a sequence of 8 evenly spaced no
         <img src="{{ site.urlimg }}BaniLessonTab1.jpg" alt="Bani Tab">
         <p>Kumbengo for the song Bani Le - Tab Notation v1</p>
 </div>
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonBridge1.jpg" alt="Bani Bridge">
+        <p>Bani Le - Bridge Notation v1</p>
+</div>
 
 <audio src="{{ site.urlaudio }}BaniLesson1.mp3" type="audio/mp3" controls="controls"></audio>
 
@@ -37,6 +41,10 @@ First of all, we can try doubling the D note (playing the note twice quickly in 
         <img src="{{ site.urlimg }}BaniLessonTab2.jpg" alt="Bani Tab">
         <p>Kumbengo for the song Bani Le - Tab Notation v5</p>
 </div>
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonBridge2.jpg" alt="Bani Bridge">
+        <p>Bani Le - Bridge Notation v2</p>
+</div>
 
 <audio src="{{ site.urlaudio }}BaniLesson2.mp3" type="audio/mp3" controls="controls"></audio>
 
@@ -53,19 +61,26 @@ left, or as the 7th string on the left. Try first one and then the other.
         <img src="{{ site.urlimg }}BaniLessonTab3.jpg" alt="Bani Tab">
         <p>Kumbengo for the song Bani Le - Tab Notation v3</p>
 </div>
-
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonBridge3.jpg" alt="Bani Bridge">
+        <p>Bani Le - Bridge Notation v3</p>
+</div>
 <audio src="{{ site.urlaudio }}BaniLesson3.mp3" type="audio/mp3" controls="controls"></audio>
 
 Similarly, we’ve played the G note as the 5th string on the left hand side, but it can also be played as the 5th note on the left, (or indeed as the 9th string on the right.)  Try different variations of playing the G on the left, on the right, both at the same time, or one then the other.
 
 
 <div class="row t60">
-        <img src="{{ site.urlimg }}BaniLessonStaff5.png" alt="Bani Staff Notation">
-        <p>Kumbengo for the song Bani Le - Staff Notation v4</p>
+        <img src="{{ site.urlimg }}BaniLessonStaff4.png" alt="Bani Staff Notation">
+        <p>Bani Le - Staff Notation v4</p>
 </div>
 <div class="row t60">
-        <img src="{{ site.urlimg }}BaniLessonTab5.jpg" alt="Bani Tab">
-        <p>Kumbengo for the song Bani Le - Tab Notation v4</p>
+        <img src="{{ site.urlimg }}BaniLessonTab4.jpg" alt="Bani Tab">
+        <p>Bani Le - Tab Notation v4</p>
+</div>
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonBridge4.jpg" alt="Bani Bridge">
+        <p>Bani Le - Bridge Notation v4</p>
 </div>
 
 <audio src="{{ site.urlaudio }}BaniLesson4.mp3" type="audio/mp3" controls="controls"></audio>
@@ -83,7 +98,10 @@ You can take this a step further by playing the octave notes slightly apart from
         <img src="{{ site.urlimg }}BaniLessonTab5.jpg" alt="Bani Tab">
         <p>Kumbengo for the song Bani Le - Tab Notation v5</p>
 </div>
-
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonBridge5.jpg" alt="Bani Bridge">
+        <p>Bani Le - Bridge Notation v5</p>
+</div>
 <audio src="{{ site.urlaudio }}BaniLesson5.mp3" type="audio/mp3" controls="controls"></audio>
 
 
