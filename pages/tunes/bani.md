@@ -117,4 +117,4 @@ Whereas the video from zkora here:<https://vimeo.com/125132034>
 
 Shows the 8 note sequence as F-A-D-A-F-A-G-A, as we have done on this page.
 
-Both are correct - they’ve simply chosen a different F as the starting point. Andrea's video lessons on <https://www.koralessons.com> are a great next step. He introduces a version of Bani very similar to the one shown on this page and then introduces many variations and improvisations over the course of a number of videos.
+Both are correct - they’ve simply chosen a different F as the starting point. Andrea's video lessons on koralessons.com are a great next step. He introduces a version of Bani very similar to the one shown on this page and then introduces many variations and improvisations over the course of a number of videos.
