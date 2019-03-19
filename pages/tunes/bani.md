@@ -19,18 +19,20 @@ There's also a (synthesised) mp3 of each variant - apologies for the poor qualit
 <div class="row">
 <div class="large-4 columns">
         <img src="{{ site.urlimg }}BaniLessonStaff1.png" alt="Bani Staff Notation" width="300" height="225" border="5">
-        <p>Kumbengo for the song Bani Le - Staff Notation v1</p>
+        <p>Bani Le - Staff Notation v1</p>
 </div>
 <div class="large-4 columns">
         <img src="{{ site.urlimg }}BaniLessonTab1.jpg" alt="Bani Tab" width="300" height="225" border="5">
-        <p>Kumbengo for the song Bani Le - Tab Notation v1</p>
+        <p>Bani Le - Tab v1</p>
 </div>
 <div class="large-4 columns">
         <img src="{{ site.urlimg }}BaniLessonBridge1.jpg" alt="Bani Bridge" width="300" height="225" border="5">
         <p>Bani Le - Bridge Notation v1</p>
 </div>
 </div>
+
 <audio src="{{ site.urlaudio }}BaniLesson1.mp3" type="audio/mp3" controls="controls"></audio>
+
 
 Take some time to get that sequence absolutely solid and repeatable and sounding musical. For each of the variants which follow, do the same. Make sure that you can repeat many times without error. Don't be afraid to start off at a slow pace and gradually increase as your muscle memory builds.
 
