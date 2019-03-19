@@ -45,7 +45,7 @@ You can take this a step further by playing the octave notes slightly apart from
         <p>Kumbengo for the song Bani Le - Tab Notation v5</p>
 </div>
 
-<audio src="{{ site }}/audio/BaniLesson5.mp3" type="audio/mp3" controls="controls"></audio>
+<audio src="{{ site.urlaudio }}BaniLesson5.mp3" type="audio/mp3" controls="controls"></audio>
 
 
 Note that because the music is cyclical, it doesn’t matter which one of those 8 notes we start on. This means that similarly, when notating the music, we can start anywhere. This can sometimes cause a little bit of confusion for beginners.
