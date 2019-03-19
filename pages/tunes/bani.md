@@ -35,6 +35,13 @@ We can also add octaves. So, whenever you play the F note (1st string on the rig
 
 You can take this a step further by playing the octave notes slightly apart from each other. This takes a little practice, so you may need to slow the piece right down again. Each time you play the F-A sequence (1st and 2nd strings on the right hand side), we’ll add another A - the 9th string on the left hand side.
 
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonStaff5.jpg" alt="Bani Staff Notation">
+        <p>Kumbengo for the song Bani Le - Staff Notation</p>
+</div>
+
+<audio src="{{ site }}/audio/BaniLesson5.mp3" type="audio/mp3" controls="controls"></audio>
+
 
 Note that because the music is cyclical, it doesn’t matter which one of those 8 notes we start on. This means that similarly, when notating the music, we can start anywhere. This can sometimes cause a little bit of confusion for beginners.
 
@@ -48,9 +55,6 @@ Shows the 8 note sequence as F-A-D-A-F-A-G-A
 
 Both are correct - they’ve simply chosen a different F as the starting point. ]
 
-<audio src="{{ site }}/audio/BaniLesson5.mp3" type="audio/mp3" controls="controls"></audio>
 
-<div class="row t60">
-        <img src="{{ site.urlimg }}BaniKumbengoWeb.jpg" alt="Bani Kumbengo Staff Notation">
-        <p>Kumbengo for the song Bani Le</p>
-</div>
+
+
