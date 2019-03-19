@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: Learning kora tunes"
+title: Learning kora tunes
 header:
    image_fullwidth: "BallakeSissokoKora.jpg"
 permalink: "/tunes/"
