@@ -17,7 +17,7 @@ There's also a (synthesised) mp3 of each variant - apologies for the poor qualit
 
 ---
 
-1. At its most basic, Bani can be broken down into a sequence of 8 evenly spaced notes. The very simplest way to play it is to simply use 4 strings on the right hand side. Play the first right hand string, then the second, then the seventh, then the second. That is the first bar. For the second bar, it is very similar. Play the first right hand string, then the second, then the fifth string, then the second. Try to keep a steady rhythm so that each note is of the same length.
+1 At its most basic, Bani can be broken down into a sequence of 8 evenly spaced notes. The very simplest way to play it is to simply use 4 strings on the right hand side. Play the first right hand string, then the second, then the seventh, then the second. That is the first bar. For the second bar, it is very similar. Play the first right hand string, then the second, then the fifth string, then the second. Try to keep a steady rhythm so that each note is of the same length.
 <div class="row">
 <div class="large-4 columns">
         <img src="{{ site.urlimg }}BaniLessonStaff1.png" alt="Bani Staff Notation" width="300" height="225" border="5">
@@ -40,7 +40,7 @@ Take some time to get that sequence absolutely solid and repeatable and sounding
 
 ---
 
-2. Now, let’s introduce some variation.
+2 Now, let’s introduce some variation.
 
 First of all, we can try doubling the D note (the seventh string.) By doubling I simply mean playing the note twice quickly in succession in the same time that we previously played it once. We can do the same with the G note (fifth string), or both. That gives us 4 possible variations of the same kumbengo. Play about with that, trying to keep in time and to switch back and forth between the different variations.
 
@@ -63,7 +63,7 @@ First of all, we can try doubling the D note (the seventh string.) By doubling I
 
 ---
 
-3. Now, we can also try playing the D and G notes using other strings.
+3 Now, we can also try playing the D and G notes using other strings.
 
 We have been playing the D note as the 7th string on the right hand side, but D can also be played as the 3rd string on the
 left, or as the 7th string on the left. Try running through the pattern using first one and then the other. 
@@ -87,7 +87,7 @@ left, or as the 7th string on the left. Try running through the pattern using fi
 
 ---
 
-4. Similarly, we’ve played the G note as the 5th string on the left hand side, but it can also be played as the 5th note on the left, (or indeed as the 9th string on the right.)  Try different variations of playing the G on the left, on the right, both at the same time, or one then the other.
+4 Similarly, we’ve played the G note as the 5th string on the left hand side, but it can also be played as the 5th note on the left, (or indeed as the 9th string on the right.)  Try different variations of playing the G on the left, on the right, both at the same time, or one then the other.
 
 <div class="row">
 <div class="large-4 columns">
@@ -108,7 +108,7 @@ left, or as the 7th string on the left. Try running through the pattern using fi
 
 ---
 
-5. We can also add octaves. Whenever you play the F note (1st string on the right hand side), you can also play the lower F (1st string on the left hand side.) Get comfortable doing this, as it’s a very common thing to do on the kora. You can also add a higher F (the 8th left hand string), or even play the F in 4 places by adding the 8th right hand string.
+5 We can also add octaves. Whenever you play the F note (1st string on the right hand side), you can also play the lower F (1st string on the left hand side.) Get comfortable doing this, as it’s a very common thing to do on the kora. You can also add a higher F (the 8th left hand string), or even play the F in 4 places by adding the 8th right hand string.
 
 You can take this a step further by playing the octave notes slightly apart from each other. This takes a little practice, so you may need to slow the piece right down again. Each time you play the F-A sequence (1st and 2nd strings on the right hand side), we’ll add another A - the 9th string on the left hand side. Instead of playing the two A notes together, play the high A (the ninth left hand string) slightly ahead of the low A (the second right hand string.)
 
@@ -129,7 +129,7 @@ You can take this a step further by playing the octave notes slightly apart from
 
 <audio src="{{ site.urlaudio }}BaniLesson5.mp3" type="audio/mp3" controls="controls"></audio>
 
-###
+---
 
 As the music is cyclical, it doesn’t matter which one of those 8 notes we start on. This means that similarly, when notating the music, we can start anywhere. This can sometimes cause a little bit of confusion for beginners.
 
