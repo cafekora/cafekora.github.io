@@ -12,8 +12,16 @@ On this page, we show the music in three different forms - staff notation (writt
 
 At its most basic, Bani can be broken down into a sequence of 8 evenly spaced notes. The very simplest way to play it is to simply use 4 strings on the right hand side. 
 
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonStaff1.png" alt="Bani Staff Notation">
+        <p>Kumbengo for the song Bani Le - Staff Notation v1</p>
+</div>
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonTab1.jpg" alt="Bani Tab">
+        <p>Kumbengo for the song Bani Le - Tab Notation v1</p>
+</div>
 
-
+<audio src="{{ site.urlaudio }}BaniLesson1.mp3" type="audio/mp3" controls="controls"></audio>
 
 Take some time to get that sequence absolutely solid and repeatable and sounding musical.
 
@@ -21,16 +29,47 @@ Now, let’s introduce some variation.
 
 First of all, we can try doubling the D note (playing the note twice quickly in succession in the same time that we previously played it once.) We can do the same with the G note, or both. That gives us 4 possible variations of the same kumbengo. Play about with that, trying to keep in time and to switch back and forth between the different variations.
 
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonStaff2.png" alt="Bani Staff Notation">
+        <p>Kumbengo for the song Bani Le - Staff Notation v5</p>
+</div>
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonTab2.jpg" alt="Bani Tab">
+        <p>Kumbengo for the song Bani Le - Tab Notation v5</p>
+</div>
+
+<audio src="{{ site.urlaudio }}BaniLesson2.mp3" type="audio/mp3" controls="controls"></audio>
+
 Now, we can also try playing the D and G notes using other strings.
-
-
-
-
 
 We have been playing the D note as the 7th string on the right hand side, but D can also be played as the 3rd string on the
 left, or as the 7th string on the left. Try first one and then the other. 
 
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonStaff3.png" alt="Bani Staff Notation">
+        <p>Kumbengo for the song Bani Le - Staff Notation v3</p>
+</div>
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonTab3.jpg" alt="Bani Tab">
+        <p>Kumbengo for the song Bani Le - Tab Notation v3</p>
+</div>
+
+<audio src="{{ site.urlaudio }}BaniLesson3.mp3" type="audio/mp3" controls="controls"></audio>
+
 Similarly, we’ve played the G note as the 5th string on the left hand side, but it can also be played as the 5th note on the left, (or indeed as the 9th string on the right.)  Try different variations of playing the G on the left, on the right, both at the same time, or one then the other.
+
+
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonStaff5.png" alt="Bani Staff Notation">
+        <p>Kumbengo for the song Bani Le - Staff Notation v4</p>
+</div>
+<div class="row t60">
+        <img src="{{ site.urlimg }}BaniLessonTab5.jpg" alt="Bani Tab">
+        <p>Kumbengo for the song Bani Le - Tab Notation v4</p>
+</div>
+
+<audio src="{{ site.urlaudio }}BaniLesson4.mp3" type="audio/mp3" controls="controls"></audio>
+
 
 We can also add octaves. So, whenever you play the F note (1st string on the right hand side), you can also play the lower F (1st string on the left hand side.) Get comfortable doing this, as it’s a very common thing to do on the kora. You can also add a higher F (the 8th left hand string), or even play the F in 4 places by adding the 8th right hand string.
 
@@ -59,7 +98,3 @@ Whereas the video from zkora here:<https://vimeo.com/125132034>
 Shows the 8 note sequence as F-A-D-A-F-A-G-A
 
 Both are correct - they’ve simply chosen a different F as the starting point. ]
-
-
-
-
