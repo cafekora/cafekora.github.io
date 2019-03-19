@@ -133,12 +133,10 @@ You can take this a step further by playing the octave notes slightly apart from
 
 As the music is cyclical, it doesn’t matter which one of those 8 notes we start on. This means that similarly, when notating the music, we can start anywhere. This can sometimes cause a little bit of confusion for beginners.
 
-For example, the video by Andrea here:<https://www.youtube.com/watch?v=U5FtMy5dCJA>
+For example, the basic 8 note sequence is treated as F-A-G-A-F-A-D-A in the video by Andrea here:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5FtMy5dCJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Essentially treats the 8 note sequence as F-A-G-A-F-A-D-A.
 
-Whereas the video from zkora here:<https://vimeo.com/125132034>
-
-Shows the 8 note sequence as F-A-D-A-F-A-G-A, as we have done on this page.
+Whereas the video from zkora here:<https://vimeo.com/125132034> shows the 8 note sequence as F-A-D-A-F-A-G-A, as we have done on this page.
 
 Both are correct - they’ve simply chosen a different F as the starting point. Andrea's video lessons on koralessons.com are a great next step. He introduces a version of Bani very similar to the one shown on this page and then introduces many variations and improvisations over the course of a number of videos.
