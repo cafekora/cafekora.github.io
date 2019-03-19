@@ -31,7 +31,7 @@ baseurl: '/'
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'https://www.thekoracafe.com/images/'
-
+urlaudio: 'https://www.thekoracafe.com/audio/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
