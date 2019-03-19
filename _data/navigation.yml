@@ -52,6 +52,13 @@
   - title: "Books and Films"
     url: "/resources/booksfilms"
 
+- title: "Tunes"
+  url: "/tunes/"
+  side: left
+  dropdown:
+  - title: "Bani"
+    url: "/tunes/bani"
+
 - title: FAQs
   url: "/faq/"
   side: left
