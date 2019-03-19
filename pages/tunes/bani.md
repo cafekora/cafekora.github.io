@@ -48,7 +48,7 @@ Shows the 8 note sequence as F-A-D-A-F-A-G-A
 
 Both are correct - they’ve simply chosen a different F as the starting point. ]
 
-
+<audio src="https://archive.org/download/music_from_all_around_the_world/13._music_from_all_around_the_world_-_b-ju_-_philly_run.mp3" type="audio/mp3" controls="controls"></audio>
 
 <div class="row t60">
         <img src="{{ site.urlimg }}BaniKumbengoWeb.jpg" alt="Bani Kumbengo Staff Notation">
