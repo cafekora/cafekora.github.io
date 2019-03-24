@@ -48,4 +48,9 @@ Sousou and Maher Cissoko's camp/creative retreat in West Africa.
 
 <https://www.jaliyacamp.com/>
 
+* **Living Legacies**
+A project to produce an archive of traditional Gambian music, which obviously includes many kora players.
+
+<http://www.tundejegede.org/Living_Legacies/Home.html>
+
 Something wrong or missing on this page? Got a suggestion for another website to add here? Please use the contact form above!
