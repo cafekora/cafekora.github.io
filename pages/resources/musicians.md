@@ -64,6 +64,10 @@ permalink: "/resources/musicians/"
 
 <http://jalifilycissokho.co.uk/>
 
+* **Sura Susso**
+
+<https://surasusso.bandcamp.com/>
+
 * **Prince Diabate**  
 
 <http://www.princediabate.com/>
@@ -79,6 +83,10 @@ permalink: "/resources/musicians/"
 * **Amadou Fall**
 
 <http://www.amekoramusic.com/>
+
+* **Vieux Aliou Cissokho**
+
+<https://soundcloud.com/vieuxalioucissokho>
 
 * **Jacques Burtin**
 
