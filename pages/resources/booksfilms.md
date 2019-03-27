@@ -11,6 +11,8 @@ permalink: "/resources/booksfilms/"
 The following list is by no means exhaustive, but these texts are recommended for further reading on the culture, history and music of the Mande people.
 
 - **Griots and Griottes Masters of Words and Music (African Expressive Cultures)** Thomas A. Hale (2007)
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=thekoracafe04-20&marketplace=amazon&region=US&placement=0253219612&asins=0253219612&linkId=40b5fd5607db8835502bbc9b4b1337f7&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
+    </iframe>
 
 - **Griots at War: Conflict, Conciliation, and Caste in Mande** Barbara Hoffman (2001)
 
