@@ -45,3 +45,5 @@ Two films funded by the UK Arts & Humanities’ Research Council, “Da Kali - t
 
 A short French language documentary (51 minutes)  based on the album of the same name (of which a second volume was later released.). It features several interview recounting the history of Jaliya and covers the making of the CD, which features numerous West African artists.
 <https://www.youtube.com/watch?v=XEJrGTCwvZo>
+
+<div id="amzn-assoc-ad-229ab66a-33fe-4823-98bd-39eb05f1329a"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=229ab66a-33fe-4823-98bd-39eb05f1329a"></script>
