@@ -55,4 +55,10 @@ Long established sellers of high quality instruments.
 
 <http://www.thekoraworkshop.co.uk/>
 
+* **Kora Manding Harps** (Spain/Catalonia)
+Barcelona/Girona based kora maker and teacher.
+
+<http://www.kora-manding-harps.com/>
+
+
 If you would like to suggest additions or corrections to this list, please use the contact us form at the top of the page.
