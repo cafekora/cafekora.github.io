@@ -59,6 +59,7 @@ Will studied kora and percussion in Mali and Senegal and has performed in numero
 
 * **Mandinka Heritage Music School** (Kembuje, The Gambia)
 School teaching kora and other instruments, run by Sanjally Jobarteh, son of one of the all-time greats, Amadou Bansang Jobarteh
-http://www.mandinkaheritagemusicschool.com/
+
+<http://www.mandinkaheritagemusicschool.com/>
 
 Want to be added to this list, or correct some details? Please contact us using the contact section at the top of the page.
