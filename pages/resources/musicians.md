@@ -88,6 +88,10 @@ permalink: "/resources/musicians/"
 
 <https://soundcloud.com/vieuxalioucissokho>
 
+* **N'Faly Kouyate**
+
+<http://nfaly.com/>
+
 * **Jacques Burtin**
 
 <http://www.jacquesburtin.com/koraEn.htm>
