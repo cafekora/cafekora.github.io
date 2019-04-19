@@ -7,7 +7,7 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/resources/teachers"
 ---
-This page lists primarily those offering kora tuition outside West Africa. 
+This page lists primarily those offering kora tuition (mainly, but not exclusively) outside West Africa. 
 
 Teachers and Courses
 * **The Kora Workshop** (UK, France, Senegal)
@@ -56,5 +56,9 @@ Kora, bala and djembe lessons are offered (in German).
 Will studied kora and percussion in Mali and Senegal and has performed in numerous countries. He offers Kora and drum lessons.
 
 <https://willridenour.com/>
+
+* **Mandinka Heritage Music School** (Kembuje, The Gambia)
+School teaching kora and other instruments, run by Sanjally Jobarteh, son of one of the all-time greats, Amadou Bansang Jobarteh
+http://www.mandinkaheritagemusicschool.com/
 
 Want to be added to this list, or correct some details? Please contact us using the contact section at the top of the page.
