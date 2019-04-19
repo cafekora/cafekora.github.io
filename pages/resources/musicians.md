@@ -97,6 +97,9 @@ permalink: "/resources/musicians/"
 <https://www.koratone.com/>
 
 * **Holly Marland**
+
 <https://koraqueen.wordpress.com/>
+
 <https://hollymarlandmusic.com/>
+
 Please use the contact form, at the top of the page, for additions or corrections.
