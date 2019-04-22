@@ -106,7 +106,7 @@ permalink: "/resources/musicians/"
 
 <https://hollymarlandmusic.com/>
 
-* **Salio Cissoho** 
+* **Saliou Cissoho** 
 
 <http://www.saliou-cissokho.de/> (German Language)
 
