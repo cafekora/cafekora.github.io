@@ -14,5 +14,6 @@ header:
     image_fullwidth: gallery-example-1.jpg
 ---
 
-**Tata Dindin Jobarteh New Album **
+**Tata Dindin Jobarteh New Album**
+
 Tata dindin Jobarteh and his Salam band released a new album "Kano" on all digital platforms today (April 30 2019). 
