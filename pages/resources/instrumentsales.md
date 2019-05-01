@@ -60,5 +60,8 @@ Barcelona/Girona based kora maker and teacher.
 
 <http://www.kora-manding-harps.com/>
 
+* **Bara Gnouma** (France)
+Importers of musical instruments from Burkina Faso, including koras. 
+https://www.baragnouma.com/en/
 
 If you would like to suggest additions or corrections to this list, please use the contact us form at the top of the page.
