@@ -134,10 +134,12 @@ You can take this a step further by playing the octave notes slightly apart from
 As the music is cyclical, it doesn’t matter which one of those 8 notes we start on. This means that similarly, when notating the music, we can start anywhere. This can sometimes cause a little bit of confusion for beginners.
 
 For example, the basic 8 note sequence is treated as F-A-G-A-F-A-D-A in the video by Andrea here:
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5FtMy5dCJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Whereas the video from zkora here:
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srG5PRvpkRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 shows the 8 note sequence as F-A-D-A-F-A-G-A, as we have done on this page.
