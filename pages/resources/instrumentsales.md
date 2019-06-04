@@ -64,4 +64,8 @@ Barcelona/Girona based kora maker and teacher.
 Importers of musical instruments from Burkina Faso, including koras. 
 <https://www.baragnouma.com/en/>
 
+* **Mande Kora** (Germany)
+Kora makers (and musicians) based in Freiburg, Germany.
+<http://www.mandekora.de/>
+
 If you would like to suggest additions or corrections to this list, please use the contact us form at the top of the page.
