@@ -16,7 +16,7 @@ Long established sellers of instruments, they run taster sessions and longer wor
 <http://www.thekoraworkshop.co.uk/>
 
 * **Ame Fall** (California, USA)
-Senegalese kora player, Amadou Fall who has recorded and performed in Africa, Europe and North America offers kora lessons in the US. He also runs a class in Senegal in which participants construct their own kora and learn to play.
+Senegalese kora player, Ame Fall who has recorded and performed in Africa, Europe and North America offers kora lessons in the US. He also runs a class in Senegal in which participants construct their own kora and learn to play. He was part of Baba Maal's band and recorded in the Black Panther soundtrack/movie.  
 
 <http://www.amekoramusic.com/>
 
@@ -33,7 +33,7 @@ Although primarily a performer, Josh occasionally teaches kora at the City of Ba
 <https://www.korasonworkshops.co.uk/>
 
 * **Kane Mathis** (New York, USA)
-Kane is a performer on both Kora and the arabic Oud. He learned kora from a number of Gambian players, including Malamini Jobarteh and Moriba Kouyate.  
+Kane is a performer on both Kora and the Arabic Oud. He learned kora from a number of Gambian players, including Malamini Jobarteh and Moriba Kouyate.  
 
 <http://www.kanemathis.com/>
 
@@ -47,13 +47,13 @@ SOAS runs an annual summer school in London which features courses in a wide ran
 
 <https://www.soas.ac.uk/music/summermusicschool/>
 
-* **Ursula Branscheid-Kouyaté and Mamadou Kouyaté**
-Kora, bala and djembe lessons are offered (in German).
+* **Ursula Branscheid-Kouyaté and Mamadi Kouyaté**
+Kora, bala and djembe lessons are offered (in German). Ursula is the author of "Kora & Djembé", published LEU-Verlag in 2003.
 
 <http://www.djembe-kora.de/kurse.html>
 
 * **Will Ridenour** (North Carolina, USA)
-Will studied kora and percussion in Mali and Senegal and has performed in numerous countries. He offers Kora and drum lessons.
+Will studied kora and percussion in Mali and Senegal and has performed in numerous countries. He offers kora and drum lessons.
 
 <https://willridenour.com/>
 
