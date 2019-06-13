@@ -80,7 +80,7 @@ permalink: "/resources/musicians/"
 
 <https://myspace.com/madousidikidiabate>
 
-* **Amadou Fall**
+* **Ame Fall**
 
 <http://www.amekoramusic.com/>
 
@@ -106,8 +106,16 @@ permalink: "/resources/musicians/"
 
 <https://hollymarlandmusic.com/>
 
-* **Saliou Cissoho** 
+* **Saliou Cissokho** 
 
 <http://www.saliou-cissokho.de/> (German Language)
+
+* **Kandara Diebaté**
+
+https://www.nomadmusic.de/ (German Language)
+
+* **Nathalie Cora**
+
+<hhp://www.nathaliecora.com/>
 
 Please use the contact form, at the top of the page, for additions or corrections.
