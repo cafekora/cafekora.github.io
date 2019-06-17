@@ -80,7 +80,7 @@ permalink: "/resources/musicians/"
 
 <https://myspace.com/madousidikidiabate>
 
-* **Ame Fall**
+* **Ame Kora**
 
 <http://www.amekoramusic.com/>
 
