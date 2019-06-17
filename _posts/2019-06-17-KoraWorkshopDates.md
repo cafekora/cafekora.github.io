@@ -15,5 +15,6 @@ header:
 
 **Kora Workshop September Dates**
 
-The Kora Workshop have announced a week-long workshop in a very beautiful part of France, it runs from 18th – 25th September 2019, suitable for kora students of all levels
-Details here: <https://www.thekoraworkshop.co.uk/product/sept-2019-workshop-in-france/> 
+The Kora Workshop have announced a week-long workshop in a very beautiful part of France. It runs from 18th – 25th September 2019 and is suitable for kora students of all levels.
+
+Full Details from their website: <https://www.thekoraworkshop.co.uk/product/sept-2019-workshop-in-france/> 
