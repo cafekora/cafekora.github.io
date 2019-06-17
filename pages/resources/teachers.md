@@ -15,8 +15,8 @@ Long established sellers of instruments, they run taster sessions and longer wor
 
 <http://www.thekoraworkshop.co.uk/>
 
-* **Ame Fall** (California, USA)
-Senegalese kora player, Ame Fall who has recorded and performed in Africa, Europe and North America offers kora lessons in the US. He also runs a class in Senegal in which participants construct their own kora and learn to play. He was part of Baba Maal's band and recorded in the Black Panther soundtrack/movie.  
+* **Ame Kora** (California, USA)
+Senegalese kora player, Ame Kora who has recorded and performed in Africa, Europe and North America offers kora lessons in the US. He also runs a class in Senegal in which participants construct their own kora and learn to play. He was part of Baba Maal's band and recorded in the Black Panther soundtrack/movie.  
 
 <http://www.amekoramusic.com/>
 
