@@ -19,9 +19,9 @@ alt="Toumani Diabate The Mande Variations" width="300" height="225" border="5" /
 </div>
  <div class="large-4 columns">
 <a href="{{ site.url }}{{ site.baseurl }}/music/videos3/">
-<img src="https://img.youtube.com/vi/Lx7hhA0Aits/0.jpg" 
-alt="Toumani Diabate New Ancient Strings" width="300" height="225" border="5" /></a>
-Toumani Diabate New Ancient Strings   
+<img src="https://img.youtube.com/vi/iEZMNyeyjbE/0.jpg" 
+alt="Toumani Diabate Elyne Road" width="300" height="225" border="5" /></a>
+Toumani Diabate Elyne Road   
 </div>
  <div class="large-4 columns">
 <a href="{{ site.url }}{{ site.baseurl }}/music/videos4/">
