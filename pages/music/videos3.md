@@ -1,7 +1,7 @@
 ---
 layout: video
 show_meta: false
-title: "Toumani Diabate Elyne Rod"
+title: "Toumani Diabate Elyne Road"
 permalink: "/music/videos3/"
 
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/iEZMNyeyjbE' frameborder='0' allowfullscreen></iframe>"
