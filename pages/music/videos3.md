@@ -16,8 +16,8 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/Lx7hhA0Ai
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/Lx7hhA0Aits"
-    contentURL: "https://www.youtube.com/watch?v=Lx7hhA0Aits"
-    thumbnailUrl: "http://img.youtube.com/vi/Lx7hhA0Aits/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/watch?v=iEZMNyeyjbE"
+    contentURL: "https://www.youtube.com/watch?v=iEZMNyeyjbE"
+    thumbnailUrl: "http://img.youtube.com/vi/iEZMNyeyjbE/maxresdefault.jpg"
 ---
 - **<a href="{{ site.url }}{{ site.baseurl }}/music/videos/"> Back to Video list</a>**
