@@ -15,4 +15,4 @@ header:
 ---
 UK Based Kora player/multi-instrumentalist Suntou Susso has his debut album Kanefonyo out
 
-He also has a UK tour with dates in October and November - details here: <(https://suntoususso.com/shows)>
+He also has a UK tour with dates in October and November - details here: <https://suntoususso.com/shows>
